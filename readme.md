@@ -1,9 +1,9 @@
 ## Penomoran
 
-Menggunakan Laravel versi 5.4 
+Menggunakan Laravel versi 5.4 <br>
 PHP = 5.6.40
 
-Pada tabel Items, penomoran bukan pada row Id tetapi pada row Nomor.
+Pada tabel Items, penomoran bukan pada row Id tetapi pada row Nomor.<br>
 Row Nomor diambil dari tabel Numbers pada row Last ditambah 1.
 
 ## License
