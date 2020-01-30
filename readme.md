@@ -1,6 +1,10 @@
 ## Penomoran
 
+Menggunakan Laravel versi 5.4 
+PHP = 5.6.40
 
+Pada tabel Items, penomoran bukan pada row Id tetapi pada row Nomor.
+Row Nomor diambil dari tabel Numbers pada row Last ditambah 1.
 
 ## License
 
